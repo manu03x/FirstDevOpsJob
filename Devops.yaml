@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: service-devops
-        image: antony0618/polyglot-ms-account
+        image: manu03x/polyglot-ms-account
         ports:
         - containerPort: 8080
 ---
